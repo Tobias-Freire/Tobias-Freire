@@ -4,7 +4,6 @@
   <em>Computer Science student | Backend Developer | RESTful APIs Enthusiast</em>
 </p>
 
----
 
 ## 🧑‍💻 About Me
 
@@ -16,7 +15,6 @@ I specialize in backend development and have experience with scalable, high-perf
 - 🔧 I work daily with **Docker**, **Postman**, **Oracle APEX**, and **PostgreSQL**    
 - 📫 Contact me at: [tobiasfreire005@gmail.com](mailto:tobiasfreire005@gmail.com)
 
----
 
 ## ⚙️ Tech Stack & Tools
 
@@ -36,16 +34,14 @@ I specialize in backend development and have experience with scalable, high-perf
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
----
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tobias-Freire&show_icons=true&theme=vue-dark" height="160px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tobias-Freire&layout=compact&theme=vue-dark" height="160px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Tobias-Freire&show_icons=true&theme=dark" height="160px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tobias-Freire&layout=compact&theme=dark" height="160px"/>
 </p>
 
----
 
 ## 🔍 Interests
 
@@ -55,7 +51,6 @@ I specialize in backend development and have experience with scalable, high-perf
 - 🧩 Microservices Architecture
 - 📐 Software Engineering Best Practices
 
----
 
 ## 🧭 Let's Connect
 

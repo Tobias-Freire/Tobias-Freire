@@ -19,7 +19,7 @@ I specialize in backend development and have experience with scalable, high-perf
 ## ⚙️ Tech Stack & Tools
 
 ### Languages
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-%2300C7B7.svg?style=for-the-badge&logo=sqlite&logoColor=white)
@@ -28,6 +28,7 @@ I specialize in backend development and have experience with scalable, high-perf
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-web-services&logoColor=white)
 ![Oracle APEX](https://img.shields.io/badge/Oracle%20APEX-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -37,13 +38,11 @@ I specialize in backend development and have experience with scalable, high-perf
 
 ## 📊 GitHub Stats
 
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-<img height=259 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=tobias-freire&size_weight=0.5&count_weight=0.5&layout=compact&langs_count=8&hide_border=true&role=owner,collaborator&theme=dark&bg_color=0D1117" alt="Rick Staa's Language stats" />
-</a>
+<div>
+<img height=259 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=tobias-freire&size_weight=0.5&count_weight=0.5&layout=compact&langs_count=8&hide_border=true&role=owner,collaborator&theme=dark&bg_color=0D1117" alt="?" />
 
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-<img height=259 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=tobias-freire&show_icons=true&line_height=28&hide_border=true&card_width=347&include_all_commits=true&role=owner,collaborator&show=reviews,discussions_answered&rank_icon=github&exclude_repo=github-readme-stats&theme=dark&bg_color=0D1117" alt="Rick Staa's Github stats" />
-</a>>
+<img height=259 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=tobias-freire&show_icons=true&line_height=28&hide_border=true&card_width=347&include_all_commits=true&role=owner,collaborator&show=reviews,discussions_answered&rank_icon=github&exclude_repo=github-readme-stats&theme=dark&bg_color=0D1117" alt="?" />
+</div>
 
 
 ## 🔍 Interests

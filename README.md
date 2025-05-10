@@ -38,10 +38,9 @@ I specialize in backend development and have experience with scalable, high-perf
 
 ## 📊 GitHub Stats
 
-<div>
-  <img height=259 src="https://github-readme-stats.vercel.app/api/top-langs/?username=tobias-freire&layout=compact&langs_count=8&hide_border=true&theme=dark&bg_color=0D1117" alt="Top Langs" />
-
-  <img height=259 src="https://github-readme-stats.vercel.app/api?username=tobias-freire&show_icons=true&line_height=28&hide_border=true&include_all_commits=true&theme=dark&bg_color=0D1117" alt="GitHub Stats" />
+<div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+  <img height="259" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tobias-freire&layout=compact&langs_count=8&hide_border=true&theme=dark&bg_color=0D1117" alt="Top Langs" />
+  <img height="259" src="https://github-readme-stats.vercel.app/api?username=tobias-freire&show_icons=true&line_height=28&hide_border=true&include_all_commits=true&theme=dark&bg_color=0D1117" alt="GitHub Stats" />
 </div>
 
 

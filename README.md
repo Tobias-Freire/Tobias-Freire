@@ -37,10 +37,13 @@ I specialize in backend development and have experience with scalable, high-perf
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tobias-Freire&show_icons=true&theme=dark" height="160px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tobias-Freire&layout=compact&theme=dark" height="160px"/>
-</p>
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+<img height=259 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=tobias-freire&size_weight=0.5&count_weight=0.5&layout=compact&langs_count=8&hide_border=true&role=owner,collaborator&theme=dark&bg_color=0D1117" alt="Rick Staa's Language stats" />
+</a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+<img height=259 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=tobias-freire&show_icons=true&line_height=28&hide_border=true&card_width=347&include_all_commits=true&role=owner,collaborator&show=reviews,discussions_answered&rank_icon=github&exclude_repo=github-readme-stats&theme=dark&bg_color=0D1117" alt="Rick Staa's Github stats" />
+</a>>
 
 
 ## 🔍 Interests

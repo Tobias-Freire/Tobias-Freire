@@ -1,18 +1,18 @@
 <h1 align="center">Hi there, I'm Tobias 👋</h1>
 
 <p align="center">
-  <em>Computer Science student | Backend Developer | RESTful APIs Enthusiast</em>
+  <em>Computer Science student | Backend Software Engineer | Technology enthusiast</em>
 </p>
 
 
 ## 🧑‍💻 About Me
 
-I'm a passionate software developer and Computer Science student at the Federal University of Paraíba (UFPB), Brazil.  
-I specialize in backend development and have experience with scalable, high-performance systems.
+I'm a passionate software engineer and Computer Science student at the Federal University of Paraíba (UFPB), Brazil.  
+I specialize in backend development and have experience with scalable and high-performance systems.
 
-- 💡 I enjoy creating RESTful APIs with **Spring Boot** and **FastAPI**  
-- 🧠 I’m currently exploring **Machine Learning** and **Cloud Architecture (AWS)**  
-- 🔧 I work daily with **Docker**, **Postman**, **Oracle APEX**, and **PostgreSQL**    
+- 💡 I enjoy creating APIs and Microsservices with **Spring Boot** and **FastAPI**  
+- 🧠 I’m currently exploring **AI/ML**, **System Architecture** and **Cloud Architecture (AWS)**  
+- 🔧 I work daily with **Docker**, **Postman**, **relational databases (PostgreSQL and Oracle)**, **and non-relational databases (MongoDB)**
 - 📫 Contact me at: [tobiasfreire005@gmail.com](mailto:tobiasfreire005@gmail.com)
 
 

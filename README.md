@@ -12,7 +12,7 @@ I specialize in backend development and have experience with scalable and high-p
 
 - 💡 I enjoy creating APIs and Microsservices with **Spring Boot** and **FastAPI**  
 - 🧠 I’m currently exploring **AI/ML**, **System Architecture** and **Cloud Architecture (AWS)**  
-- 🔧 I work daily with **Docker**, **Postman**, **relational databases (PostgreSQL and Oracle)**, **and non-relational databases (MongoDB)**
+- 🔧 I work daily with **Docker**, **relational databases (PostgreSQL and Oracle)**, **and non-relational databases (MongoDB)**
 - 📫 Contact me at: [tobiasfreire005@gmail.com](mailto:tobiasfreire005@gmail.com)
 
 

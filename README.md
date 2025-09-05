@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Tobias 👋</h1>
+# Tobias Freire <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" >
 
 <p align="center">
   <em>Computer Science student | Backend Software Engineer | Technology enthusiast</em>
@@ -10,11 +10,8 @@
 I'm a passionate software engineer and Computer Science student at the Federal University of Paraíba (UFPB), Brazil.  
 I specialize in backend development and have experience with scalable and high-performance systems.
 
-- 💡 I enjoy creating APIs and Microsservices with **Spring Boot** and **FastAPI**  
+- 💡 I enjoy creating APIs and Microsservices
 - 🧠 I’m currently exploring **AI/ML**, **System Architecture** and **Cloud Architecture (AWS)**  
-- 🔧 I work daily with **Docker**, **relational databases (PostgreSQL and Oracle)**, **and non-relational databases (MongoDB)**
-- 📫 Contact me at: [tobiasfreire005@gmail.com](mailto:tobiasfreire005@gmail.com)
-
 
 ## ⚙️ Tech Stack & Tools
 
@@ -29,11 +26,12 @@ I specialize in backend development and have experience with scalable and high-p
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-web-services&logoColor=white)
-![Oracle APEX](https://img.shields.io/badge/Oracle%20APEX-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Oracle DB](https://img.shields.io/badge/Oracle_DB-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Oracle APEX](https://img.shields.io/badge/Oracle%20APEX-F87000?style=for-the-badge&logo=oracle&logoColor=white)
 
 
 ## 📊 GitHub Stats
@@ -44,16 +42,6 @@ I specialize in backend development and have experience with scalable and high-p
 </div>
 
 
-## 🔍 Interests
-
-- ⚙️ RESTful API Design
-- ☁️ Cloud Computing (AWS)
-- 🤖 Artificial Intelligence
-- 🧩 Microservices Architecture
-- 📐 Software Engineering Best Practices
-
-
 ## 🧭 Let's Connect
-
 - 💼 [LinkedIn](https://www.linkedin.com/in/tobias-freire/)
-- 💻 [GitHub](https://github.com/Tobias-Freire)
+- 📫 Contact me at: [tobiasfreire005@gmail.com](mailto:tobiasfreire005@gmail.com)

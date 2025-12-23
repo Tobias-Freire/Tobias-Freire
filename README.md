@@ -43,6 +43,6 @@ I specialize in backend development and have experience with scalable and high-p
 
 
 ## 🧭 Let's Connect
-- 🧑‍💻 [My website](https://tobias-freire.github.io/)
+- 🧑‍💻 [My website](https://tobias-freire.vercel.app/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/tobias-freire/)
 - 📫 Contact me at: [tobiasfreire005@gmail.com](mailto:tobiasfreire005@gmail.com)
